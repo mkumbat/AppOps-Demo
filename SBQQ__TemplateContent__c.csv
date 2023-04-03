@@ -1,4 +1,4 @@
 "Guid","Name","SBQQ__CustomSource__c","SBQQ__FontFamily__c","SBQQ__FontSize__c","SBQQ__Markup__c","SBQQ__RawMarkup__c","SBQQ__TableStyle__c","SBQQ__TextColor__c","SBQQ__Type__c"
-393060a0-1548-4766-bef4-7b2dbf15b53e,Lines,"#N/A","#N/A","#N/A","#N/A","#N/A",Standard,"#N/A",Line Items
-68f4e28f-12fe-4b09-9d2b-804a3a2f533f,Bottom,"#N/A","#N/A","#N/A","#N/A","#N/A",Standard,"#N/A",HTML
-eedda89b-401e-4f2c-a0d5-1e8e7ed49622,Top,"#N/A","#N/A","#N/A",<p>Top</p>,TOP,Standard,"#N/A",HTML
+438b51fa-9d47-4120-acea-b2f935895f7e,Top,"#N/A","#N/A","#N/A",<p>Top</p>,TOP,Standard,"#N/A",HTML
+49fbcc07-2310-4034-961f-07c92620adc7,Bottom,"#N/A","#N/A","#N/A","#N/A","#N/A",Standard,"#N/A",HTML
+eae596f8-6128-4d2d-a5f5-5f9b49b6961a,Lines,"#N/A","#N/A","#N/A","#N/A","#N/A",Standard,"#N/A",Line Items

@@ -1,4 +1,4 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__BinaryChoice__c","SBQQ__ConditionsMet__c","SBQQ__DefaultField__c","SBQQ__DisplayOrder__c","SBQQ__InputField__c","SBQQ__IntegerInput__c","SBQQ__Label__c","SBQQ__Operator__c","SBQQ__ProcessInputCondition__c","SBQQ__ProductField__c","SBQQ__QuoteProcess__c"
-2bb162aa-d771-44bf-b349-ced436231c88,Input 2,false,"#N/A",All,"#N/A",1.0,BinaryChoice__c,"#N/A",Input 2,"#N/A","#N/A","#N/A",294fd678-5a44-4e6e-afee-a110a4b8ef55
-7a1c7881-1869-4293-879c-c133ef61bf3f,Input 1,false,"#N/A",All,"#N/A",1.0,IntegerInput__c,"#N/A",Input 1,"#N/A","#N/A","#N/A",294fd678-5a44-4e6e-afee-a110a4b8ef55
-f4f0bebf-b28d-4156-ba20-ed33f308b047,Input 3,false,"#N/A",All,"#N/A",1.0,BinaryChoice__c,"#N/A",Input 3,"#N/A","#N/A","#N/A",294fd678-5a44-4e6e-afee-a110a4b8ef55
+01c0940b-6929-4c90-bbb8-6827609de222,Input 3,false,"#N/A",All,"#N/A",1.0,BinaryChoice__c,"#N/A",Input 3,"#N/A","#N/A","#N/A",97418185-46cc-4c11-aaae-e3535407feff
+545a1222-1584-42f9-b919-4ef4b5664729,Input 2,false,"#N/A",All,"#N/A",1.0,BinaryChoice__c,"#N/A",Input 2,"#N/A","#N/A","#N/A",97418185-46cc-4c11-aaae-e3535407feff
+9f4bd2b2-c8e5-4254-838d-698bf12eece6,Input 1,false,"#N/A",All,"#N/A",1.0,IntegerInput__c,"#N/A",Input 1,"#N/A","#N/A","#N/A",97418185-46cc-4c11-aaae-e3535407feff

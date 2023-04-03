@@ -1,2 +1,2 @@
 "Guid","Name","SBQQ__Active__c","SBQQ__AdvancedCondition__c","SBQQ__ConditionsMet__c","SBQQ__ErrorMessage__c","SBQQ__EvaluationEvent__c","SBQQ__EvaluationOrder__c","SBQQ__LookupMessageField__c","SBQQ__LookupObject__c","SBQQ__LookupProductField__c","SBQQ__LookupRequiredField__c","SBQQ__LookupTypeField__c","SBQQ__Scope__c","SBQQ__Type__c"
-55f489ba-45e7-494e-9f60-33e562e9bb25,test1,false,"#N/A",Any,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
+28ab4333-71a3-4566-a2e5-d2aca7bf367e,test1,false,"#N/A",Any,"#N/A",Always,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",Product,Selection
